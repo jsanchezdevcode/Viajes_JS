@@ -37,7 +37,8 @@ function obtenerContenido(enlace) {
         'Barcelona': barcelona,
         'Roma': roma,
         'París': paris,
-        'Londres': londres
+        'Londres': londres,
+        'Paraguay': asuncion
     }
     return contenido[enlace];
 }
