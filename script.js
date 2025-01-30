@@ -41,7 +41,6 @@ function obtenerContenido(enlace) {
         'Asuncion': asuncion,
         'Buenos Aires': buenosaires,
         'Brasilia': brasilia,
-        'San Lorenzo': sanlorenzo,
     }
     return contenido[enlace];
 }
