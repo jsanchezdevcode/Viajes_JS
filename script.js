@@ -40,6 +40,7 @@ function obtenerContenido(enlace) {
         'Londres': londres,
         'Asuncion': asuncion,
         'Buenos Aires': buenosaires,
+        'Brasilia': brasilia,
     }
     return contenido[enlace];
 }
